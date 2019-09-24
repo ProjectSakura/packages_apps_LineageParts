@@ -190,7 +190,7 @@
                 android:resource="@string/summary_empty" />
         </activity-alias>
 
-        <!-- Contributors Cloud (MyDeviceInfo category) -->
+        <!-- Contributors Cloud (MyDeviceInfo category) 
         <activity-alias
             android:name=".contributors.ContributorsCloudFragment"
             android:label="@string/contributors_cloud_fragment_title"
@@ -209,7 +209,7 @@
             <meta-data
                 android:name="com.android.settings.summary"
                 android:resource="@string/summary_empty" />
-        </activity-alias>
+        </activity-alias> -->
 
         <!-- Anonymous Statistics -->
         <receiver android:name=".lineagestats.ReportingServiceManager"
