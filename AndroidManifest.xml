@@ -173,6 +173,7 @@
         <activity-alias
             android:name=".trust.TrustPreferences"
             android:label="@string/trust_title"
+            android:icon="@drawable/ic_trust"
             android:targetActivity="PartsActivity">
             <intent-filter>
                 <action android:name="com.android.settings.action.IA_SETTINGS" />
