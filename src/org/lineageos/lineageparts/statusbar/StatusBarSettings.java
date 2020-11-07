@@ -78,13 +78,6 @@ public class StatusBarSettings extends SettingsPreferenceFragment
         super.onCreate(savedInstanceState);
         addPreferencesFromResource(R.xml.status_bar_settings);
 
-        mNetworkTrafficPref = findPreference(NETWORK_TRAFFIC_SETTINGS);
-
-        mHasNotch = DeviceUtils.hasNotch(getActivity());
-        if (mHasNotch) {
-            getPreferenceScreen().removePreference(mNetworkTrafficPref);
-        }
-
         mStatusBarAmPm = findPreference(STATUS_BAR_AM_PM);
         mStatusBarClock = findPreference(STATUS_BAR_CLOCK_STYLE);
         mStatusBarClock.setOnPreferenceChangeListener(this);
@@ -199,13 +192,6 @@ public class StatusBarSettings extends SettingsPreferenceFragment
             // Unconditional no network traffic for you
             return;
         }
-
-        boolean isClockCentered = clockPosition == 1;
-        mNetworkTrafficPref.setEnabled(!isClockCentered);
-        mNetworkTrafficPref.setSummary(getResources().getString(isClockCentered ?
-                R.string.network_traffic_disabled_clock :
-                R.string.network_traffic_settings_summary
-        ));
     }
 
     private int getNetworkTrafficStatus() {
