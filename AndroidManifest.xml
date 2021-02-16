@@ -112,7 +112,7 @@
                 <action android:name="org.lineageos.lineageparts.BUTTON_SETTINGS" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
-            <meta-data
+           <!-- <meta-data
                 android:name="com.android.settings.category"
                 android:value="com.android.settings.category.ia.system" />
             <meta-data
@@ -120,7 +120,7 @@
                 android:value="-256" />
             <meta-data
                 android:name="com.android.settings.summary"
-                android:resource="@string/summary_empty" />
+                android:resource="@string/summary_empty" /> -->
         </activity-alias>
 
         <activity android:name=".gestures.KeyHandler" />
@@ -158,7 +158,7 @@
                 <action android:name="org.lineageos.lineageparts.STATUS_BAR_SETTINGS" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
-            <meta-data
+           <!-- <meta-data
                 android:name="com.android.settings.category"
                 android:value="com.android.settings.category.ia.system" />
             <meta-data
@@ -166,7 +166,7 @@
                 android:value="-254" />
             <meta-data
                 android:name="com.android.settings.summary"
-                android:resource="@string/summary_empty" />
+                android:resource="@string/summary_empty" /> -->
         </activity-alias>
 
         <!-- Trust interface (Privacy category) -->
