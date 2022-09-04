@@ -71,6 +71,10 @@ public class Utilities {
         return SystemProperties.get("ro.sakura.display.version", Build.DISPLAY);
     }
 
+    public static String getBuildDate() {
+        return SystemProperties.get("ro.build.date", "Unknown");
+    }
+
     public static String digest(String input) {
         try {
             MessageDigest md = MessageDigest.getInstance("SHA-256");
