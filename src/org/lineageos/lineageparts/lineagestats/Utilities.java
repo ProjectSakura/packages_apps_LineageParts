@@ -64,7 +64,7 @@ public class Utilities {
     }
 
     public static String getDevice() {
-        return SystemProperties.get("ro.lineage.device", Build.PRODUCT);
+        return SystemProperties.get("ro.lineage.device", "Unknown");
     }
 
     public static String getModVersion() {
