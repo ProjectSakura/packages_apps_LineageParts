@@ -383,9 +383,15 @@
     <string name="contributors_cloud_loading_message">Carregando dados de colaboradores\u2026</string>
     <string name="contributors_cloud_failed_message">Não foi possível carregar os dados de colaboradores</string>
     <string name="contributor_info_menu">Informação do colaborador</string>
-    <string name="contributions_info_menu">Informação de colaborações</string>
+    <string name="contributor_info_msg"><b>Nome:</b> <xliff:g id="name">%1$s</xliff:g><br/><br/>
+                 <b>Apelido:</b> <xliff:g id="nick">%2$s</xliff:g><br/><br/>
+                 <b>Commits:</b> <xliff:g id="commits">%3$s</xliff:g></string>
+    <string name="contributions_info_menu">Informações de contribuição</string>
+    <string name="contributions_info_msg"><b>Total de contribuidores:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
+                 <b>Total de commits:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
+                 <b>Última atualização:</b> <xliff:g id="date">%3$s</xliff:g></string>
     <string name="anonymous_statistics_title">Estatísticas ProjectSakura</string>
-    <string name="anonymous_statistics_summary">Ajude a melhorar o ProjectSakura optando por enviar estatísticas anônimas</string>
+    <string name="anonymous_statistics_summary">Ajude a melhorar o ProjectSakura enviando estatísticas anônimas</string>
     <string name="anonymous_statistics_warning_title">Sobre</string>
     <string name="anonymous_statistics_warning">Optar por enviar estatísticas anônimas ao ProjectSakura permitirá que dados não pessoais sejam enviados aos desenvolvedores do ProjectSakura para rastrear instalações únicas em dispositivos. As informações enviadas incluem um identificador único que não compromete sua privacidade ou dados pessoais. Os dados são enviados durante cada inicialização.\n\nPara ver um exemplo dos dados enviados, toque em \'Pré-visualizar dados\'.</string>
     <string name="enable_reporting_title">Ativar relatório</string>
