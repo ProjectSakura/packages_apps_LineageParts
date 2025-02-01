@@ -18,7 +18,18 @@
     <string name="light_brightness_title">ஒளிர்வு நிலை</string>
     <string name="battery_light_title">மின்கலவொளி</string>
     <string name="battery_light_enable_title">மின்கலவொளியை இயக்குக</string>
+    <string name="battery_light_list_title">நிறங்கள்</string>
+    <string name="battery_light_low_color_title">மின்கலம் குறைவு</string>
+    <string name="battery_light_medium_color_title">மின்னூட்டுகிறது</string>
+    <string name="battery_light_full_color_title">முழுமையாக மின்னூட்டப்பட்டது</string>
+    <string name="notification_light_title">அறிவுறுத்தல் ஒளி</string>
     <string name="notification_light_enable_title">அறிவிப்பொளியை இயக்குக</string>
+    <string name="notification_light_general_title">பொது</string>
+    <string name="notification_light_advanced_title">மேம்பட்டவை</string>
+    <string name="notification_light_applist_title">செயலிகள்</string>
+    <string name="notification_light_phonelist_title">தொலைபேசி</string>
+    <string name="notification_light_missed_call_title">தவறிய அழைப்பு</string>
+    <string name="notification_light_voicemail_title">குரலஞ்சல்</string>
     <string name="torch_long_press_power_timeout_1min">1 நுணுத்தம்</string>
     <string name="torch_long_press_power_timeout_2min">2 நுணுத்தம்</string>
     <string name="torch_long_press_power_timeout_5min">5 நுணுத்தம்</string>
@@ -67,5 +78,6 @@
     <string name="contributors_cloud_fragment_title">பங்களிப்பாளர்</string>
     <string name="contributors_cloud_loading_message">பங்களிப்பாளர் தரவு ஏற்றுகின்றது\u2026</string>
     <string name="touchscreen_gesture_action_dialer">சுழற்றியைத் திறக்க</string>
+    <string name="trust_feature_selinux">SEலினக்சு</string>
     <string name="sms_security_check_limit_always_confirm">எப்பொழுதும் உறுதி செய்க</string>
 </resources>

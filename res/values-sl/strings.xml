@@ -35,6 +35,7 @@
     <string name="dialog_delete_message">Odstrani izbrani predmet?</string>
     <string name="brightness">Raven svetlosti</string>
     <string name="pulse_length_always_on">Vedno vklopljena</string>
+    <string name="pulse_length_blink">Utrip</string>
     <string name="pulse_length_very_short">Zelo kratka</string>
     <string name="pulse_length_short">Kratka</string>
     <string name="pulse_length_normal">Običajna</string>

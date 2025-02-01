@@ -35,6 +35,7 @@
     <string name="dialog_delete_message">Seçilmiş element silinsin?</string>
     <string name="brightness">Parlaqlıq səviyyəsi</string>
     <string name="pulse_length_always_on">Hər zaman açıq</string>
+    <string name="pulse_length_blink">Sayrışma</string>
     <string name="pulse_length_very_short">Çox qısa</string>
     <string name="pulse_length_short">Qısa</string>
     <string name="pulse_length_normal">Normal</string>
@@ -298,10 +299,10 @@
     <string name="profile_networkmode_4g">LTE</string>
     <string name="profile_networkmode_2g3g">2G/3G</string>
     <string name="profile_networkmode_2g3g4g">2G/3G/LTE</string>
-    <string name="profile_volumeoverrides_title">Səs səviyyəsi dəyişiklikləri</string>
+    <string name="profile_volumeoverrides_title">Həcm yox sayma</string>
     <string name="connection_state_enabled">Fəal</string>
     <string name="volume_override_summary">%1$s/%2$s olaraq ayarla</string>
-    <string name="profile_volume_override_checkbox_label">Səs səviyyəsini dəyişdir</string>
+    <string name="profile_volume_override_checkbox_label">Həcmi yox say</string>
     <string name="profile_profiles_manage">Profillər</string>
     <string name="profile_profile_manage">Profili idarə et</string>
     <string name="profile_settings">Profil ayarları</string>
@@ -336,7 +337,7 @@
     <string name="ring_mode_normal">Normal</string>
     <string name="ring_mode_vibrate">Titrəmə</string>
     <string name="ring_mode_mute">Səssiz</string>
-    <string name="ring_volume_title">Zəng səsi səviyyəsi</string>
+    <string name="ring_volume_title">Zəng həcmi</string>
     <string name="incoming_call_volume_title">Zəng səsi</string>
     <string name="notification_volume_title">Bildiriş</string>
     <string name="media_volume_title">Media</string>
@@ -499,8 +500,8 @@
     <string name="touchscreen_gesture_action_play_pause_music">Musiqini oxut/fasilə ver</string>
     <string name="touchscreen_gesture_action_previous_track">Əvvəlki mahnıya keç</string>
     <string name="touchscreen_gesture_action_next_track">Sonrakı mahnıya keç</string>
-    <string name="touchscreen_gesture_action_volume_down">Media səsini azalt</string>
-    <string name="touchscreen_gesture_action_volume_up">Media səsini artır</string>
+    <string name="touchscreen_gesture_action_volume_down">Media həcmini azalt</string>
+    <string name="touchscreen_gesture_action_volume_up">Media həcmini artır</string>
     <string name="touchscreen_gesture_action_ambient_display">Bildiriş ekranını göstər</string>
     <string name="trust_category_features">Status</string>
     <string name="trust_feature_selinux">SELinux</string>
