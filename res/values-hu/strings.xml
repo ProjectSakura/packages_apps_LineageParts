@@ -5,7 +5,7 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageparts_title">LineageOS - Beállítások</string>
+    <string name="lineageparts_title">Project Sakura - Beállítások</string>
     <string name="loading">Betöltés\u2026</string>
     <string name="dlg_ok">OK</string>
     <string name="cancel">Mégse</string>
@@ -422,7 +422,7 @@
     <string name="contributions_info_msg"><![CDATA[<b>Összes közreműködő:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Összes feladat:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
                  <b>Utolsó frissítés:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
-    <string name="anonymous_statistics_title">LineageOS statisztika</string>
+    <string name="anonymous_statistics_title">Project Sakura statisztika</string>
     <string name="anonymous_statistics_summary">Segítsen a LineageOS jobbá tételében, kapcsolja be a névtelen statisztikai adatok gyűjtését</string>
     <string name="anonymous_statistics_warning_title">Névjegy</string>
     <string name="anonymous_statistics_warning">A LineageOS statisztika engedélyezése nem terjed ki személyes adatokra, csak egy egyedi azonosítóval azonosítjuk az eszközöket. A beküldött adatok beleértve az egyedi azonosítót, nem veszélyeztetik az adatvédelmi vagy személyes adatokat. A statisztika minden rendszerindításkor elküldésre kerül.\n\nAz elküldött adatok menüpont alatt tekintheti meg a statisztikai adatokat.</string>

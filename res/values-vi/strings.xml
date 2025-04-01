@@ -5,7 +5,7 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageparts_title">Cài Đặt LineageOS</string>
+    <string name="lineageparts_title">Cài Đặt Project Sakura</string>
     <string name="loading">Đang tải\u2026</string>
     <string name="dlg_ok">OK</string>
     <string name="cancel">Hủy</string>
@@ -422,7 +422,7 @@
     <string name="contributions_info_msg"><![CDATA[<b>Tổng những người đóng góp:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Tổng đóng góp:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
                  <b>Cập nhật mới nhất:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
-    <string name="anonymous_statistics_title">Thống kê LineageOS</string>
+    <string name="anonymous_statistics_title">Thống kê Project Sakura</string>
     <string name="anonymous_statistics_summary">Giúp cho LineageOS tốt hơn bằng cách chọn vào báo cáo số liệu thống kê ẩn danh</string>
     <string name="anonymous_statistics_warning_title">Về</string>
     <string name="anonymous_statistics_warning">Chọn tham gia Thống kê LineageOS sẽ cho phép gửi dữ liệu không liên quan đến cá nhân đến những nhà phát triển của LineageOS để theo dõi số lượt cài đặt duy nhất trên các thiết bị. Thông tin đã gửi sẽ bao gồm một ký hiệu nhận dạng duy nhất, nó sẽ không ảnh hưởng đến sự riêng tư hoặc dữ liệu cá nhân của bạn. Dữ liệu được gửi vào mỗi lần khởi động.\n\nĐể xem mẫu dữ liệu được gửi, chạm vào Xem trước dữ liệu.</string>

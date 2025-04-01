@@ -5,7 +5,7 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageparts_title">Configurações do LineageOS</string>
+    <string name="lineageparts_title">Configurações do Project Sakura</string>
     <string name="loading">Carregando\u2026</string>
     <string name="dlg_ok">OK</string>
     <string name="cancel">Cancelar</string>
@@ -422,7 +422,7 @@
     <string name="contributions_info_msg"><![CDATA[<b>Total de contribuidores:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Total de commits:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
                  <b>Última atualização:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
-    <string name="anonymous_statistics_title">Estatísticas LineageOS</string>
+    <string name="anonymous_statistics_title">Estatísticas Project Sakura</string>
     <string name="anonymous_statistics_summary">Ajude a melhorar o LineageOS enviando estatísticas anônimas</string>
     <string name="anonymous_statistics_warning_title">Sobre</string>
     <string name="anonymous_statistics_warning">Optar por enviar estatísticas anônimas ao LineageOS permitirá que dados não pessoais sejam enviados aos desenvolvedores do LineageOS para rastrear instalações únicas em dispositivos. As informações enviadas incluem um identificador único que não compromete sua privacidade ou dados pessoais. Os dados são enviados durante cada inicialização.\n\nPara ver um exemplo dos dados enviados, toque em \'Pré-visualizar dados\'.</string>

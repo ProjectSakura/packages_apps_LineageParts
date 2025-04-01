@@ -5,7 +5,7 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageparts_title">הגדרות LineageOS</string>
+    <string name="lineageparts_title">הגדרות Project Sakura</string>
     <string name="loading">טוען\u2026</string>
     <string name="dlg_ok">אישור</string>
     <string name="cancel">ביטול</string>
@@ -363,7 +363,7 @@
     <string name="contributors_cloud_failed_message">לא ניתן לטעון נתוני תורמים</string>
     <string name="contributor_info_menu">פרטי תורם</string>
     <string name="contributions_info_menu">פרטי תורמים</string>
-    <string name="anonymous_statistics_title">סטטיסטיקות LineageOS</string>
+    <string name="anonymous_statistics_title">סטטיסטיקות Project Sakura</string>
     <string name="anonymous_statistics_summary">עזור לשפר את LineageOS על ידי שליחת דיווחי סטטיסטיקות אנונימית</string>
     <string name="anonymous_statistics_warning_title">אודות</string>
     <string name="anonymous_statistics_warning">הצטרפות לסטטיסטיקות LineageOS תאפשר שליחת מידע לא אישי למפתחי LineageOS על מנת לאתר את מספר ההתקנות לכל סוג מכשיר. המידע הנשלח כולל מזהה ייחודי, אשר אינו פוגע בפרטיותך או במידע שלך. המידע נשלח עם כל אתחול.\n\nכדי לצפות בדוגמה של מידע שנשלח, הקש על הצג דוגמה.</string>

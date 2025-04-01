@@ -5,7 +5,7 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageparts_title">LineageOS-ynstellingen</string>
+    <string name="lineageparts_title">Project Sakura-ynstellingen</string>
     <string name="loading">Lade\u2026</string>
     <string name="dlg_ok">OK</string>
     <string name="cancel">Annulearje</string>
@@ -369,7 +369,7 @@
     <string name="contributors_cloud_failed_message">Kin ynformaasje oer meiwurkers net lade</string>
     <string name="contributor_info_menu">Meiwurkersynformaasje</string>
     <string name="contributions_info_menu">Meiwurkersynformaasje</string>
-    <string name="anonymous_statistics_title">LineageOS-statistiken</string>
+    <string name="anonymous_statistics_title">Project Sakura-statistiken</string>
     <string name="anonymous_statistics_summary">Help LineageOS te ferbetterjen troch anonime statistiken te ferstjoeren</string>
     <string name="anonymous_statistics_warning_title">Oer</string>
     <string name="anonymous_statistics_warning">Troch statistiken ferstjoere ta te stean wurde wylst it opstarten anonime gegevens nei de ûntwikkelers fan LineageOS ferstjoerd om unike ynstallaasjes folgje te kinnen. Yn de gegevens sit in unyk id-nûmer ferwurke, dat jo privacy net skeint.\n\nOm in foarbyld te sjen, tikke jo op ‘Foarbyld fan gegevens’.</string>

@@ -5,7 +5,7 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageparts_title">Inställningar för LineageOS</string>
+    <string name="lineageparts_title">Inställningar för Project Sakura</string>
     <string name="loading">Laddar\u2026</string>
     <string name="dlg_ok">OK</string>
     <string name="cancel">Avbryt</string>
@@ -388,7 +388,7 @@
     <string name="contributors_cloud_failed_message">Det gick inte att läsa in bidragsgivardata</string>
     <string name="contributor_info_menu">Bidragsgivarinformation</string>
     <string name="contributions_info_menu">Bidragsinformation</string>
-    <string name="anonymous_statistics_title">LineageOS-statistik</string>
+    <string name="anonymous_statistics_title">Project Sakura-statistik</string>
     <string name="anonymous_statistics_summary">Hjälp till att göra LineageOS bättre genom att skicka in anonym statistik</string>
     <string name="anonymous_statistics_warning_title">Om</string>
     <string name="anonymous_statistics_warning">Att delta i LineageOS statistikprogram tillåter att icke-personlig data skickas till

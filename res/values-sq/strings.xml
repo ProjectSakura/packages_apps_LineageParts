@@ -5,7 +5,7 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageparts_title">Cilësimet e LineageOS</string>
+    <string name="lineageparts_title">Cilësimet e Project Sakura</string>
     <string name="loading">Duke u ngarkuar\u2026</string>
     <string name="dlg_ok">OK</string>
     <string name="cancel">Anullo</string>
@@ -422,7 +422,7 @@
     <string name="contributions_info_msg"><![CDATA[<b>Kontribuesit total:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Totali i angazhimeve:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
                  <b>Përditësimet e fundit:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
-    <string name="anonymous_statistics_title">Statistikat e LineageOS</string>
+    <string name="anonymous_statistics_title">Statistikat e Project Sakura</string>
     <string name="anonymous_statistics_summary">Ndihmo në përmirësimin e LineageOS duke lejuar raportimin anonim të statistikave</string>
     <string name="anonymous_statistics_warning_title">Rreth nesh</string>
     <string name="anonymous_statistics_warning">Aktivizimi i Statistikave të LineageOS do të lejojë dërgimin e të dhënave jo-personale tek        zhvilluesit e LineageOS që të ndjekin instalime unike në pajisje të ndryshme. Informacioni i dërguar përmban një identifikues unik,        që nuk kompromenton privatësinë apo të dhënat e tua personale. Të dhënat dërgohen gjatë rindezjes së pajisjes.\n\nPër të parë një shëmbull të të dhënave që dërgohen, shtypni në Inspekto të Dhënat.</string>

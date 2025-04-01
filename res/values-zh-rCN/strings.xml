@@ -5,7 +5,7 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageparts_title">LineageOS 设置</string>
+    <string name="lineageparts_title">Project Sakura 设置</string>
     <string name="loading">正在加载\u2026</string>
     <string name="dlg_ok">确定</string>
     <string name="cancel">取消</string>
@@ -422,7 +422,7 @@
     <string name="contributions_info_msg"><![CDATA[<b>贡献者总数:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>提交总数:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
                  <b>上次更新:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
-    <string name="anonymous_statistics_title">LineageOS 统计</string>
+    <string name="anonymous_statistics_title">Project Sakura 统计</string>
     <string name="anonymous_statistics_summary">开启匿名统计报告以便帮助 LineageOS 未来向更好的方向发展</string>
     <string name="anonymous_statistics_warning_title">关于</string>
     <string name="anonymous_statistics_warning">开启 LineageOS 统计将允许非个人数据被提交到 LineageOS 的开发者以便记录各种设备上的唯一安装。提交的信息包含一个唯一的标识符，而不会涉及您的隐私与个人数据。该数据将在每次启动时被提交。\n\n如您想看一个作为被提交数据的实例，请点击预览数据。</string>

@@ -5,7 +5,7 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageparts_title">Nastavitve LineageOS</string>
+    <string name="lineageparts_title">Nastavitve Project Sakura</string>
     <string name="loading">Nalaganje \u2026</string>
     <string name="dlg_ok">V redu</string>
     <string name="cancel">Prekliči</string>
@@ -422,7 +422,7 @@
     <string name="contributions_info_msg"><![CDATA[<b>Skupaj sodelavcev:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Skupaj prispevkov:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
                  <b>Zadnja posodobitev:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
-    <string name="anonymous_statistics_title">Statistika LineageOS</string>
+    <string name="anonymous_statistics_title">Statistika Project Sakura</string>
     <string name="anonymous_statistics_summary">Pomagajte izboljšati LineageOS tako, da izberete pošiljanje anonimne statistike</string>
     <string name="anonymous_statistics_warning_title">O aplikaciji</string>
     <string name="anonymous_statistics_warning">Izbira statistike LineageOS bo dovolila pošiljanje neosebnih podatkov

@@ -5,7 +5,7 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageparts_title">LineageOS ezarpenak</string>
+    <string name="lineageparts_title">Project Sakura ezarpenak</string>
     <string name="loading">Kargatzen\u2026</string>
     <string name="dlg_ok">Ados</string>
     <string name="cancel">Utzi</string>
@@ -366,10 +366,10 @@
     <string name="contributors_cloud_failed_message">Ezin izan dira parte-hartzaileen datuak kargatu</string>
     <string name="contributor_info_menu">Parte-hartzailearen informazioa</string>
     <string name="contributions_info_menu">Parte-hartzeen informazioa</string>
-    <string name="anonymous_statistics_title">LineageOS estatistikak</string>
-    <string name="anonymous_statistics_summary">LineageOS hobetzen lagundu estatistika anonimoak bidaliz</string>
+    <string name="anonymous_statistics_title">Project Sakura estatistikak</string>
+    <string name="anonymous_statistics_summary">Project Sakura hobetzen lagundu estatistika anonimoak bidaliz</string>
     <string name="anonymous_statistics_warning_title">Honi buruz</string>
-    <string name="anonymous_statistics_warning">LineageOS-en estatistiken bilketa eta bidaltzea baimenduz, informazio ez pertsonala LineageOS garatzaileei bidaltzea baimentzen duzu, gailuetan burutzen diren instalazioen jarraipenerako. Bidalitako informazioak identifikadore esklusibo eta anonimo bat darama.
+    <string name="anonymous_statistics_warning">Project Sakura-en estatistiken bilketa eta bidaltzea baimenduz, informazio ez pertsonala LineageOS garatzaileei bidaltzea baimentzen duzu, gailuetan burutzen diren instalazioen jarraipenerako. Bidalitako informazioak identifikadore esklusibo eta anonimo bat darama.
 Informazio hau gailuaren abio bakoitzean bidaltzen da.\n\nBidalitako informazioaren adibide bat ikusteko, sakatu Aurreikusi datuak.</string>
     <string name="enable_reporting_title">Gaitu txosten bidalketa</string>
     <string name="preview_data_title">Aurreikusi datuak</string>

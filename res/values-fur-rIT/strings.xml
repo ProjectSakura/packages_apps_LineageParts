@@ -5,7 +5,7 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageparts_title">Impostazions di LineageOS</string>
+    <string name="lineageparts_title">Impostazions di Project Sakura</string>
     <string name="loading">Daûr a cjariâ\u2026</string>
     <string name="dlg_ok">Va ben</string>
     <string name="cancel">Anule</string>
@@ -422,7 +422,7 @@
     <string name="contributions_info_msg"><![CDATA[<b>Totâl colaboradôrs:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Totâl contribûts:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
                  <b>Ultin inzornament:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
-    <string name="anonymous_statistics_title">Statistichis di LineageOS</string>
+    <string name="anonymous_statistics_title">Statistichis di Project Sakura</string>
     <string name="anonymous_statistics_summary">Jude a miorâ LineageOS permetint l\'inviament di statistichis anonimis</string>
     <string name="anonymous_statistics_warning_title">Informazions</string>
     <string name="anonymous_statistics_warning">Ativant lis statistichis di LineageOS  tu permetarâs di inviâ dâts, chei che no son personâi, ai
